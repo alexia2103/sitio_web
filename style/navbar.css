@@ -1,0 +1,16 @@
+.navbar{
+    height: 15vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.navbar a{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    border: #FFCC99 1px solid;
+    padding: 1%;
+    
+
+}
