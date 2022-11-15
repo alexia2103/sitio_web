@@ -1,0 +1,18 @@
+body{
+    background-color: #FFFFCC;
+    
+}
+.contenedor_img{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+.pastelito{
+    height: 400px;
+    width: auto;
+    border: white 10px solid;
+    padding-left: 7%;
+    padding-right: 7%;
+}
