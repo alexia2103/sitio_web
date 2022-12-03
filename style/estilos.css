@@ -7,8 +7,18 @@ body{
     width: 100%;
     display: flex;
     justify-content: center;
+    align-items: center;
 
 }
+
+.informacion{
+    font-size: 1.5vmax;
+    background-color: white;
+    border: 3px solid #FFCC99;
+    padding: 10px;
+    
+}
+
 .pastelito{
     height: 400px;
     width: auto;
